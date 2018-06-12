@@ -27,5 +27,6 @@ needed to create the data field. If a field is not available in the constructed 
 on the required input. The process is continued until a primary data field (Open,High,Low,Close,Adj Close,Volume) or a already
 created data field is there in the date. What this does is it allows for no duplication of data and faster processing time.
 
-While this script is only about 80 lines long, it constructs over 200 data fields that the user can potentially investigate.
+While this script is only about 80 lines long, it constructs over 200 data fields that the user can potentially investigate. An
+example of the output can be seen in 'dd_collector_V8_20180612-120906.csv' file.
 
